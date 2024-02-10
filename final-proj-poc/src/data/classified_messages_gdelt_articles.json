@@ -1,0 +1,864 @@
+[
+  {
+    "id": 1,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "terrorist",
+      "hamas",
+      "attack",
+      "bombing",
+      "terrorism"
+    ]
+  },
+  {
+    "id": 2,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 3,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 4,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 5,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 6,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 7,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "armed",
+      "attack",
+      "terrorism"
+    ]
+  },
+  {
+    "id": 8,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 9,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 10,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 11,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 12,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 13,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 14,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "terrorist",
+      "hamas",
+      "armed",
+      "attack",
+      "bombing"
+    ]
+  },
+  {
+    "id": 15,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 16,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 17,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 18,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 19,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 20,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 21,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 22,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "terrorist",
+      "armed",
+      "attack"
+    ]
+  },
+  {
+    "id": 23,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "attack",
+      "terrorism"
+    ]
+  },
+  {
+    "id": 24,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "war",
+      "terrorist",
+      "armed",
+      "attack"
+    ]
+  },
+  {
+    "id": 25,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 26,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "terrorist",
+      "hamas",
+      "attack"
+    ]
+  },
+  {
+    "id": 27,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 28,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 29,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 30,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "attack"
+    ]
+  },
+  {
+    "id": 31,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "terrorist",
+      "armed",
+      "attack"
+    ]
+  },
+  {
+    "id": 32,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "terrorist",
+      "attack",
+      "terrorism"
+    ]
+  },
+  {
+    "id": 33,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "terrorist",
+      "hamas",
+      "armed",
+      "attack"
+    ]
+  },
+  {
+    "id": 34,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "terrorist",
+      "armed",
+      "attack"
+    ]
+  },
+  {
+    "id": 35,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 36,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "terrorism"
+    ]
+  },
+  {
+    "id": 37,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "terrorist",
+      "hamas",
+      "armed",
+      "attack"
+    ]
+  },
+  {
+    "id": 38,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 39,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "terrorist",
+      "terrorism",
+      "attack"
+    ]
+  },
+  {
+    "id": 40,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "war",
+      "terrorist",
+      "hamas",
+      "armed",
+      "attack"
+    ]
+  },
+  {
+    "id": 41,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "battle",
+      "war",
+      "terrorist",
+      "hamas",
+      "armed",
+      "attack",
+      "conflict"
+    ]
+  },
+  {
+    "id": 42,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "terrorist",
+      "hamas",
+      "attack",
+      "bombing",
+      "terrorism"
+    ]
+  },
+  {
+    "id": 43,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 44,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 45,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 46,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 47,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 48,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 49,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strikes",
+      "attack"
+    ]
+  },
+  {
+    "id": 50,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "terrorist",
+      "hamas",
+      "armed",
+      "attack",
+      "terrorism"
+    ]
+  },
+  {
+    "id": 51,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "bombing",
+      "strike",
+      "attack",
+      "conflict"
+    ]
+  },
+  {
+    "id": 52,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "terrorist",
+      "hamas",
+      "armed",
+      "attack",
+      "terrorism"
+    ]
+  },
+  {
+    "id": 53,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "attack"
+    ]
+  },
+  {
+    "id": 54,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "terrorist",
+      "terrorism",
+      "attack",
+      "war"
+    ]
+  },
+  {
+    "id": 55,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 56,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "attack"
+    ]
+  },
+  {
+    "id": 57,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 58,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 59,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 60,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 61,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 62,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 63,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 64,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "war",
+      "hamas",
+      "attack",
+      "conflict"
+    ]
+  },
+  {
+    "id": 65,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "war",
+      "hamas",
+      "attack",
+      "conflict"
+    ]
+  },
+  {
+    "id": 66,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "war",
+      "hamas",
+      "attack",
+      "conflict"
+    ]
+  },
+  {
+    "id": 67,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "armed",
+      "strike",
+      "attack",
+      "war"
+    ]
+  },
+  {
+    "id": 68,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "battle",
+      "strikes",
+      "strike",
+      "war",
+      "attack",
+      "bombing",
+      "terrorism"
+    ]
+  },
+  {
+    "id": 69,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "hamas",
+      "attack",
+      "conflict",
+      "bombing"
+    ]
+  },
+  {
+    "id": 70,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict"
+    ]
+  },
+  {
+    "id": 71,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "terrorist",
+      "hamas",
+      "attack"
+    ]
+  },
+  {
+    "id": 72,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict"
+    ]
+  },
+  {
+    "id": 73,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict"
+    ]
+  },
+  {
+    "id": 74,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict"
+    ]
+  },
+  {
+    "id": 75,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "war",
+      "hamas",
+      "attack",
+      "conflict"
+    ]
+  }
+]

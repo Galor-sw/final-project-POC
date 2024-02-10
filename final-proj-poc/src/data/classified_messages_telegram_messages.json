@@ -1,0 +1,697 @@
+[
+  {
+    "id": 83519,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83518,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "terrorism"
+    ]
+  },
+  {
+    "id": 83517,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "hamas"
+    ]
+  },
+  {
+    "id": 83516,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war"
+    ]
+  },
+  {
+    "id": 83515,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "terrorist",
+      "attack"
+    ]
+  },
+  {
+    "id": 83514,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strikes",
+      "attack"
+    ]
+  },
+  {
+    "id": 83513,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war"
+    ]
+  },
+  {
+    "id": 83512,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "attack"
+    ]
+  },
+  {
+    "id": 83511,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "attack"
+    ]
+  },
+  {
+    "id": 83510,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "attack",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83509,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "attack",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83508,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war"
+    ]
+  },
+  {
+    "id": 83507,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strikes"
+    ]
+  },
+  {
+    "id": 83506,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83505,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "terrorist",
+      "attack"
+    ]
+  },
+  {
+    "id": 83504,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "conflict",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83503,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strikes"
+    ]
+  },
+  {
+    "id": 83501,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "terrorist",
+      "attack"
+    ]
+  },
+  {
+    "id": 83500,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strikes",
+      "war",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83499,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "attack",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83498,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83497,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "attack",
+      "hamas",
+      "armed"
+    ]
+  },
+  {
+    "id": 83496,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "attack"
+    ]
+  },
+  {
+    "id": 83495,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "conflict"
+    ]
+  },
+  {
+    "id": 83494,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83493,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "attack",
+      "armed"
+    ]
+  },
+  {
+    "id": 83492,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83491,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "hamas"
+    ]
+  },
+  {
+    "id": 83490,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83489,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83488,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83487,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83486,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83485,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83484,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83483,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "hamas",
+      "armed"
+    ]
+  },
+  {
+    "id": 83482,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "hamas",
+      "conflict"
+    ]
+  },
+  {
+    "id": 83481,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "war",
+      "attack"
+    ]
+  },
+  {
+    "id": 83480,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strikes",
+      "war",
+      "attack",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83479,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "war",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83478,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "hamas"
+    ]
+  },
+  {
+    "id": 83477,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike",
+      "strikes",
+      "attack"
+    ]
+  },
+  {
+    "id": 83476,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "attack"
+    ]
+  },
+  {
+    "id": 83475,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "attack"
+    ]
+  },
+  {
+    "id": 83474,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83472,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83471,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83470,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83469,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83467,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83465,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83464,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83463,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83462,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "conflict",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83461,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "bombing",
+      "war",
+      "attack",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83460,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "attack"
+    ]
+  },
+  {
+    "id": 83458,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war"
+    ]
+  },
+  {
+    "id": 83457,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war"
+    ]
+  },
+  {
+    "id": 83456,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83455,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strikes",
+      "war",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83454,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83453,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83452,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83451,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83450,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war"
+    ]
+  },
+  {
+    "id": 83449,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war"
+    ]
+  },
+  {
+    "id": 83447,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "attack",
+      "terrorism"
+    ]
+  },
+  {
+    "id": 83446,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "bombing",
+      "strikes",
+      "attack",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83445,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "hamas"
+    ]
+  },
+  {
+    "id": 83444,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83443,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "attack",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83442,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83441,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "hamas"
+    ]
+  },
+  {
+    "id": 83440,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "attack",
+      "hamas",
+      "armed"
+    ]
+  },
+  {
+    "id": 83439,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "strike"
+    ]
+  },
+  {
+    "id": 83438,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "attack",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83437,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "hamas"
+    ]
+  },
+  {
+    "id": 83436,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "attack"
+    ]
+  },
+  {
+    "id": 83435,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83434,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "attack"
+    ]
+  },
+  {
+    "id": 83433,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war"
+    ]
+  },
+  {
+    "id": 83431,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83430,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83429,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83428,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war"
+    ]
+  },
+  {
+    "id": 83427,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "hamas"
+    ]
+  },
+  {
+    "id": 83426,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83425,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83424,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83423,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "attack",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83422,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83421,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83420,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "conflict",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83419,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "bombing",
+      "terrorist",
+      "hamas"
+    ]
+  },
+  {
+    "id": 83418,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "armed"
+    ]
+  },
+  {
+    "id": 83417,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "bombing",
+      "strikes"
+    ]
+  },
+  {
+    "id": 83416,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "war"
+    ]
+  },
+  {
+    "id": 83414,
+    "classification": "Security Issue",
+    "detected_keywords": [
+      "attack"
+    ]
+  },
+  {
+    "id": 83413,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  },
+  {
+    "id": 83412,
+    "classification": "No Security Issue",
+    "detected_keywords": []
+  }
+]
