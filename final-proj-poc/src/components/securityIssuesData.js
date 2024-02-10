@@ -12,7 +12,7 @@ const SecurityIssuesData = () => {
     const gdeltSecurityIssueCount = gdeltMessages.filter(message => message.classification === "Security Issue").length;
 
     return (
-        <div className="border-t border-gray-300 pt-4">
+        <div className="border-t border-gray-300 pt-4 pb-4 border-b border-gray-300 pb-5">
             <h2 className="text-xl font-bold mb-4">Security Issues Data</h2>
             <p>Telegram: {telegramSecurityIssueCount}/{telegramTotalCount} security messages</p>
             <p>GDELT: {gdeltSecurityIssueCount}/{gdeltTotalCount} security messages</p>
