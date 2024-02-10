@@ -7,10 +7,10 @@ const HomePage = () => {
     return (
         <div className="flex justify-center items-center min-h-screen">
             <div className="border border-gray-300 rounded w-full mx-10 my-10">
-                <div className="m-10">
+                <div className="m-5">
                     <GeoShieldLogo />
                     <SecurityIssuesData />
-                    {/* <MatchingMessages /> */}
+                    <MatchingMessages />
                 </div>
             </div>
         </div>
